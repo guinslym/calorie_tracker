@@ -1,0 +1,29 @@
+
+//Login and Register Constants
+export const AUTH_LOGIN_USER_REQUEST = 'AUTH_LOGIN_USER_REQUEST';
+export const AUTH_LOGIN_USER_FAILURE = 'AUTH_LOGIN_USER_FAILURE';
+export const AUTH_LOGIN_USER_SUCCESS = 'AUTH_LOGIN_USER_SUCCESS';
+export const AUTH_LOGOUT_USER = 'AUTH_LOGOUT_USER';
+
+export const AUTH_REGISTER_USER_REQUEST = 'AUTH_REGISTER_USER_REQUEST';
+export const AUTH_REGISTER_USER_FAILURE = 'AUTH_REGISTER_USER_FAILURE';
+
+//Meal Constants
+export const REQUEST_MEALS = 'REQUEST_MEALS'
+export const RECEIVE_MEALS = 'RECEIVE_MEALS'
+export const CREATE_MEAL = 'CREATE_MEAL'
+export const CREATED_MEAL = 'CREATED_MEAL'
+export const DELETE_MEAL = 'DELETE_MEAL'
+export const DELETED_MEAL = 'DELETED_MEAL'
+export const EDIT_MEAL = 'EDIT_MEAL'
+export const EDITED_MEAL = 'EDITED_MEAL'
+
+//User Constants
+export const REQUEST_USERS = 'REQUEST_USERS'
+export const RECEIVE_USERS = 'RECEIVE_USERS'
+export const CREATED_USER = 'CREATED_USER'
+export const CREATE_USER = 'CREATE_USER'
+export const DELETE_USER = 'DELETE_USER'
+export const DELETED_USER = 'DELETED_USER'
+export const EDIT_USER = 'EDIT_USER'
+export const EDITED_USER = 'EDITED_USER'
